@@ -1,0 +1,17 @@
+{
+  "name": "intern_demo",
+  "version": "0.0.0",
+  "description": "Comparing intern and dalek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "intern": "~1.2.1",
+    "grunt": "~0.4.1",
+    "sauce-connect-launcher": "~0.1.11"
+  }
+}

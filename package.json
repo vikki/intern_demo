@@ -12,6 +12,6 @@
   "devDependencies": {
     "intern": "~1.2.1",
     "grunt": "~0.4.1",
-    "sauce-connect-launcher": "~0.1.11"
+    "sauce-connect-launcher": "~0.1.12"
   }
 }
